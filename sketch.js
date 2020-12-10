@@ -59,7 +59,7 @@ function keyPressed(){
 
 if (keyCode === 38){
 
-Matter.Body.applyForce(bob4.body,bob4.body.position,{x:-125,y:-30})
+Matter.Body.applyForce(bob4.body,bob4.body.position,{x:-100,y:-30})
 
 
 }
